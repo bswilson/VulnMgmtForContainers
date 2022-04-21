@@ -7,6 +7,7 @@
 * “The Container Compliance Almanac: NIST, PCI, GDPR and CIS.” Aqua Cloud Native Wiki, Aqua Security Software Ltd. , 11 May 2021, https://www.aquasec.com/cloud-native-academy/container-security/container-compliance/. 
 * Doerrfeld, Bill. “17 Open-Source Container Security Tools.” TechBeacon, Microfocus, 31 Mar. 2021, https://techbeacon.com/security/17-open-source-container-security-tools. 
 * Heusser, Matthew. “30 Essential Container Technology Tools and Resources.” TechBeacon, Microfocus, 9 July 2019, https://techbeacon.com/enterprise-it/30-essential-container-technology-tools-resources-0. 
+* Hughes, Chris. “Managing Container Vulnerability Risks: Tools and Best Practices.” CSO Online, IDG Tech, 19 Apr. 2022, https://www.csoonline.com/article/3656702/managing-container-vulnerability-risks-tools-and-best-practices.html. 
 * “Host Scanning.” Sysdig Documentation, Sysdig, Inc., 23 Sept. 2021, https://docs.sysdig.com/en/docs/sysdig-secure/scanning/host-scanning/. 
 * Jarvis, Matt. “Tips and Best Practices for Building Secure Container Images.” Snyk Blog, Snyk, 6 July 2021, https://snyk.io/blog/tips-best-practices-building-secure-container-images/. 
 * Losh, Chuck. “Image Scanning and Runtime Container Security.” 4 Steps to Container Lifecycle Security, Trend Micro, 8 Apr. 2021, https://www.trendmicro.com/en_us/devops/21/d/4-steps-to-container-lifecycle-security.html. 
